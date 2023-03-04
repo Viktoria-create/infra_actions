@@ -7,6 +7,9 @@ infra_actions
 
 
 Кошельник Виктория Викторовна
+
 Python-разработчик (Backend)
+
 Россия, г. Москва
+
 E-mail: viktoriakoshelnik@yandex.ru
